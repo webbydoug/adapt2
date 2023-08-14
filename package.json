@@ -10,23 +10,23 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/image": "^0.17.2",
+    "@astrojs/image": "^0.17.3",
     "@astrojs/mdx": "^0.19.7",
     "@astrojs/partytown": "^1.2.3",
-    "@astrojs/rss": "^2.4.3",
+    "@astrojs/rss": "^2.4.4",
     "@astrojs/sitemap": "^2.0.1",
     "@astrojs/tailwind": "^4.0.0",
-    "@fontsource/inter": "^5.0.5",
+    "@fontsource/inter": "^5.0.8",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/container-queries": "^0.1.1",
     "@tailwindcss/forms": "^0.5.4",
     "@tailwindcss/typography": "^0.5.9",
-    "astro": "^2.9.7",
+    "astro": "^2.10.3",
     "astro-icon": "^0.8.1",
     "astro-seo": "^0.7.5",
     "limax": "^4.1.0",
     "sharp": "^0.32.4",
     "svgo": "^3.0.2",
-    "tailwindcss": "^3.0.24"
+    "tailwindcss": "^3.3.3"
   }
 }
